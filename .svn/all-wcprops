@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/387/trunk/L1J-TW_3.80c
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/.project
+END
+ServerStart.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/ServerStart.bat
+END
+license_jp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/license_jp.txt
+END
+license_tw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/license_tw.txt
+END
+Loader.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/Loader.bat
+END
+ServerStart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/ServerStart.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/build.xml
+END
+Loader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/Loader.sh
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/license.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/385/trunk/L1J-TW_3.80c/.classpath
+END
